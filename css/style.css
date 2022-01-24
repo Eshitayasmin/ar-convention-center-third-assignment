@@ -1,10 +1,20 @@
 
-.slide-image{
-    
+/* Font link */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Italianno&family=Luxurious+Roman&family=Mea+Culpa&family=Open+Sans&family=Oswald:wght@500&family=Pacifico&family=Poppins:ital,wght@0,400;0,500;1,500&family=Roboto+Slab:wght@400;500&family=The+Nautigal:wght@700&display=swap');
+
+body{
+    background-color: rgb(238, 248, 248)
+    font-family: 'Poppins', sans-serif;
 }
-.correct{
-    height: 10px;
+.package-facilities-color{
+    color: #979797;
 }
-.section-gap{
-    margin-top: 150rem;
+.extra-part-bg{
+    background-color: rgb(245, 204, 210);
 }
+.sign-color{
+    background-color:#cec6c6;
+}
+       {
+        background-color:
+       }
