@@ -13,8 +13,9 @@ body{
     background-color: rgb(245, 204, 210);
 }
 .sign-color{
-    background-color:#cec6c6;
+    background-color: #cec6c6;
 }
-       {
-        background-color:
-       }
+.package-button  {
+   background-color: rgb(245, 193, 185);
+    font-weight: 700;
+}
